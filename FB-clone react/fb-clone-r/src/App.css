@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+  }
+  body{
+      height: auto;
+      width: 100vw;
+    /* overflow-y: hidden; */
+  }
+  
+  .app{
+      background-color: #f1f2f5;
+      
+  }
+  .app__body{
+      display: flex;
+  }
